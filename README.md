@@ -7,4 +7,6 @@ Software:
   ### 2018.5.23
   A desire to develop an Android chat APP.
   
-  <d> Lend three books about Android development for the library. They are "Android Programming - The big nerd ranch guide", "Beginning Android Programming with Android Studio" and "The Tutorial of Android Mobile Network Programming - Android Studio version 
+  * Lend three books about Android development for the library. They are "Android Programming - The big nerd ranch guide", "Beginning Android Programming with Android Studio" and "The Tutorial of Android Mobile Network Programming - Android Studio version 
+  
+  * Finish an Android APP demo, learn to use TextView and EditView controls and to change the ICON of the APP.
