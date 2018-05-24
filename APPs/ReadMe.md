@@ -1,1 +1,1 @@
-Every version APP will be record.
+Every version APP will be recorded.
