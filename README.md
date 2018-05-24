@@ -11,6 +11,6 @@ Software:
   
   * Finish an Android APP demo, learn to use TextView and EditView controls and to change the ICON of the APP.
   
-  ### 2018.5.24
+  ### 2018.5.24
   
-  * Learn to use socket package in Python. Now the Python server can communicate with a Python client through the socket mechanism.
+  * Learn to use socket package in Python. Now the Python server can communicate with a Python client through the socket mechanism.
