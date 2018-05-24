@@ -10,3 +10,7 @@ Software:
   * Lend three books about Android development for the library. They are "Android Programming - The big nerd ranch guide", "Beginning Android Programming with Android Studio" and "The Tutorial of Android Mobile Network Programming - Android Studio version 
   
   * Finish an Android APP demo, learn to use TextView and EditView controls and to change the ICON of the APP.
+  
+  ### 2018.5.24
+  
+  * Learn to use socket package in Python. Now the Python server can communicate with a Python client through the socket mechanism.
