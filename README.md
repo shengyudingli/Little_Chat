@@ -14,3 +14,7 @@ Software:
   ### 2018.5.24
   
   * Learn to use socket package in Python. Now the Python server can communicate with a Python client through the socket mechanism.
+  
+  ### 2018.5.25
+  
+  * Finish a Python server demo.
