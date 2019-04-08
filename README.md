@@ -18,3 +18,7 @@ Software:
   ### 2018.5.25
   
   * Finish a Python server demo.
+  
+  ### 2019.4.8
+  
+  * Restart this project
